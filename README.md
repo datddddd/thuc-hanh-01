@@ -1,1 +1,13 @@
-# thuc-hanh-01
+## Nguyen Thanh Dat  
+## 22810310314
+## Ket Qua:
+
+![Hinh anh 01](Hinh1.jpg)
+
+![Hinh anh 02](Hinh2.jpg)
+
+![Hinh anh 03](Hinh3.jpg)
+
+![Hinh anh 04](Hinh4.jpg)
+
+![Hinh anh 05](Hinh5.jpg)
